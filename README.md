@@ -8,6 +8,7 @@ Filebrowser 一键安装脚本
 停止：systemctl stop filebrowser
 重启：systemctl restart filebrowser
 
+
 # 配置文件在
 
 
